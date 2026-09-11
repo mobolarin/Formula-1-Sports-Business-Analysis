@@ -1,4 +1,4 @@
-# Formula-1-Sports-Business-Analysis
+# Formula 1 Sports Business Analysis
 Formula 1 Business Analytics Dashboard (1950 to 2025)
 
 ## Overview
@@ -15,7 +15,7 @@ It focuses on governance and strategy. This dashboard tracks F1's competitivenes
 It focuses on commercial intelligence. This dashboard analysed constructor dominance cycles, driver win share percentages, and circuit visibility patterns to help sponsors identify optimal partnership windows and maximise returns on endorsement investments across shifting competitive eras.
 
 ## Key Findings
-1. Extreme length races were progressively phased out from the 1980s onward as the sport standardised its format to improve broadcast reliability and fan experience.
+1. Extreme-length races were progressively phased out from the 1980s onward as the sport standardised its format to improve broadcast reliability and fan experience.
 2. The 1970s produced the highest variety of race winners of any decade with 29 unique winners, while the 2010s recorded the lowest at just 12, reflecting the concentration of dominance across the Mercedes and Red Bull eras.
 3. Autodromo Nazionale di Monza leads all circuits in winner diversity with 40 unique winners across 75 races, followed by Monaco with 38 and Silverstone with 33.
 4. Dominance cycles follow a clear pattern across decades: Ferrari defined the 2000s, Red Bull surged in the early 2010s, and Mercedes set new standards of consistency through the remainder of the decade into the 2020s.
